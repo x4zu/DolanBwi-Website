@@ -85,7 +85,7 @@ export function SiteFooter() {
 
         <div className="mt-6 flex flex-col items-center justify-center gap-4 border-t border-white/10 pt-6 text-[13px] text-white/60 sm:flex-row sm:gap-6">
           <a
-            href="https://new-porto-reivan.vercel.app/"
+            href="https://www.x2zu.net/"
             target="_blank"
             rel="noopener noreferrer"
             className="transition-colors hover:text-sulfur"

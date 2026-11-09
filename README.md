@@ -7,7 +7,7 @@
 Step through a 3D door and travel chapter by chapter: from Ijen's blue fire,
 through jungle and savanna, to the beach where turtles come home.
 
-[**Live Demo**](https://dolanbwi-website.vercel.app) · [Report a Bug](https://github.com/x4zu/DolanBwi-Website/issues) · [Author Portfolio](https://new-porto-reivan.vercel.app)
+[**Live Demo**](https://dolanbwi-website.vercel.app) · [Report a Bug](https://github.com/x4zu/DolanBwi-Website/issues) · [Author Portfolio](https://www.x2zu.net/)
 
 ![DolanBwi preview](docs/preview.png)
 
@@ -172,6 +172,6 @@ The code is released under the [MIT License](LICENSE). Photos keep their origina
 
 <div align="center">
 
-Made by **[Reivan Elsyafir Pratama](https://new-porto-reivan.vercel.app)**
+Made by **[Reivan Elsyafir Pratama](https://www.x2zu.net/)**
 
 </div>
